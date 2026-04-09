@@ -137,3 +137,5 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# checkout  everything in the .vitepress directory except the logs
+.vitepress/*
