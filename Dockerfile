@@ -5,5 +5,3 @@ RUN pip install -r requirements.txt
 COPY hello.py .
 EXPOSE 5000
 CMD ["python", "hello.py"]
-# see more file
-# yes
